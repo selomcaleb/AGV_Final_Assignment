@@ -1,0 +1,72 @@
+name: geovis
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.11
+  - pip
+
+  # Jupyter
+  - jupyterlab
+  - notebook
+  - ipykernel
+  - ipywidgets
+  - jupyterlab_widgets
+
+  # Core scientific stack
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - plotly
+
+  # Geo stack
+  - geopandas
+  - shapely
+  - pyproj
+  - fiona
+  - rasterio
+  - gdal          # helps keep GDAL aligned
+  - rtree
+  - cartopy
+  - pyogrio
+
+  # Mapping / tiles / web maps
+  - folium
+  - branca
+  - contextily
+  - xyzservices
+  - mercantile
+  - geoplot
+
+  # other viz
+  - bokeh
+  - holoviews
+  - hvplot
+  - colorcet
+  - pyviz_comms
+
+  # OSM / movement / classification
+  - osmnx
+  - movingpandas
+  - mapclassify
+  - jenkspy
+  - geopy
+  - geographiclib
+
+  # Utilities
+  - requests
+  - pyyaml
+  - tqdm
+  - networkx
+  - jellyfish
+  - json5
+  - us
+  - census
+  - websocket-client
+
+  # Performance
+  - numba
+  - llvmlite

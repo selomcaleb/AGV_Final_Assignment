@@ -1,0 +1,10 @@
+# Data: the IMD shapefile is too large for GitHub (download link in README)
+data/
+
+# osmnx download cache
+cache/
+
+# Jupyter and system files
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
