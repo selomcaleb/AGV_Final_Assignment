@@ -2,7 +2,7 @@
 
 Does where you live in Liverpool affect how far you have to walk to reach a park? This project measures the walking time from every neighbourhood (LSOA) in Liverpool to its nearest public green space, compares it with the Index of Multiple Deprivation 2019, and presents the results in static maps and an interactive Panel dashboard.
 
-**[Open the interactive dashboard](https://selomcaleb.github.io/liverpool-green-space-access/dashboard.html)**
+**[Open the interactive dashboard](https://selomcaleb.github.io/AGV_Final_Assignment/dashboard.html)**
 
 ![Bivariate map of deprivation and walking time](images/map4_bivariate.png)
 
