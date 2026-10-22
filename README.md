@@ -47,7 +47,7 @@ Then **Kernel → Restart Kernel and Run All Cells**. The notebook downloads Ope
 | IMD 2019 with 2011 LSOA boundaries | [Geographic Data Service](https://data.geods.ac.uk/dataset/index-of-multiple-deprivation-imd) | Download the shapefile and place the `IMD_2019.*` files in `data/`. Not included here because of its size |
 | Green space and walking network | OpenStreetMap, retrieved with `osmnx` | Downloaded automatically when the notebook runs |
 
-## Revisions after marking
+## Revisions
 
 This project was submitted as coursework for the Advanced Geovisualisation module at the University of Liverpool. The feedback was positive about the narrative and the analytical approach, and raised three design points. This version addresses them:
 
